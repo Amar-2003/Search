@@ -1,2 +1,2 @@
 # Search
-A front end to googel search
+A front end to google search
